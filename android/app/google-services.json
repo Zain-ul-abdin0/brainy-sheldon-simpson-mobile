@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "481242816460",
+    "firebase_url": "https://beverges.firebaseio.com",
+    "project_id": "beverges",
+    "storage_bucket": "beverges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481242816460:android:af59ff1ede9f61f47c4769",
+        "android_client_info": {
+          "package_name": "com.brainyapps.beverages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481242816460-5m3jl2a1ccr71ipkp5b03d0tn870qdn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainyapps.beverages",
+            "certificate_hash": "b723344c043572efc6058147a57991c5bd5402f5"
+          }
+        },
+        {
+          "client_id": "481242816460-qc8q8e21boheatjudopfn17jjjkka51g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainyapps.beverages",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "481242816460-l44oln8jej5v1i2v2m7dqnlvtktkq5lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu74Vp4wBgeohj3lWmDuZ6t8SZfI0TiwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481242816460-l44oln8jej5v1i2v2m7dqnlvtktkq5lp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481242816460-e2k2a5l3epo6dkivbe3h6na65cl49emg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brainyapps.beverages"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
